@@ -1,7 +1,7 @@
 ## Hi there, I`m Andrew 👋
 - Current student of Bauman State University (BMSTU) on ICS7 department (Software Engineering);
-- Also studying DS and ML at ![School 21](https://21-school.ru/) main programm;
-- Biggest fan of ![Nisu](https://github.com/DeadCool23) talent;
+- Also studying DS and ML at [School 21](https://21-school.ru/) main programm;
+- Biggest fan of [Nisu](https://github.com/DeadCool23) talent;
 
 
 <!--
